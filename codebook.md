@@ -6,7 +6,7 @@ This codebook describes the variables in the data set produced by "Run_analysis.
  
  All the 66 other variables are the mean by subjects and Activities for the following features (Features are normalized and bounded within [-1,1]) 
  
- tBodyAcc-mean()-X          : num  
+ tBodyAcc-mean()-X          : num
  tBodyAcc-mean()-Y          : num  
  tBodyAcc-mean()-Z          : num  
  tBodyAcc-std()-X           : num  
