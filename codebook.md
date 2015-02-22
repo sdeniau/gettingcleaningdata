@@ -1,17 +1,17 @@
 This codebook describes the variables in the data set produced by "Run_analysis.R" script :
 
- Subjects                   : integer from 1 to 30 for the different subjects involved in the experiment
+ * Subjects                   : integer from 1 to 30 for the different subjects involved in the experiment
  
- Activities                 : Factor with 6 levels of activities: LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS 
+ * Activities                 : Factor with 6 levels of activities: LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS 
  
  All the 66 other variables are the mean by subjects and Activities for the following features (Features are normalized and bounded within [-1,1]) 
  
- tBodyAcc-mean()-X          : num
- tBodyAcc-mean()-Y          : num  
- tBodyAcc-mean()-Z          : num  
- tBodyAcc-std()-X           : num  
- tBodyAcc-std()-Y           : num  
- tBodyAcc-std()-Z           : num  
+ * tBodyAcc-mean()-X          : num
+ * tBodyAcc-mean()-Y          : num  
+ * tBodyAcc-mean()-Z          : num  
+ * tBodyAcc-std()-X           : num  
+ * tBodyAcc-std()-Y           : num  
+ * tBodyAcc-std()-Z           : num  
  tGravityAcc-mean()-X       : num  
  tGravityAcc-mean()-Y       : num  
  tGravityAcc-mean()-Z       : num  
