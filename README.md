@@ -1,4 +1,3 @@
-# Readme file for "run_analysis.R" script
 Submission for Data Science course project on Getting and Cleaning Data
 
 This file describes how the "run_analysis.R" script works.
@@ -10,3 +9,5 @@ This file describes how the "run_analysis.R" script works.
 3 - use source(run_analysis.R) in R Studio
 
 4 - script will generate "Tidy Data Set - Course Project.txt" file, containing a data set with the average of each variable for each activity and each subject. The data set variables are explained in the codebook
+
+5 - all the steps used to reshape data from the data source to the final dataset are explained in the "run_analysis.R" script
