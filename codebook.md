@@ -1,6 +1,7 @@
 This codebook describes the variables in the data set produced by "Run_analysis.R" script :
 
  Subjects                   : integer from 1 to 30 for the different subjects involved in the experiment
+ 
  Activities                 : Factor with 6 levels of activities: LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS 
  
  All the 66 other variables are the mean by subjects and Activities for the following features (Features are normalized and bounded within [-1,1]) 
