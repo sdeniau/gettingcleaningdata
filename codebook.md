@@ -62,13 +62,13 @@ This codebook describes the variables in the data set produced by "Run_analysis.
  fBodyGyro-mean()-Y         : num  
  fBodyGyro-mean()-Z         : num  
  fBodyGyro-std()-X          : num  
- fBodyGyro-std()-Y          : num  
- fBodyGyro-std()-Z          : num  
- fBodyAccMag-mean()         : num  
- fBodyAccMag-std()          : num  
- fBodyBodyAccJerkMag-mean() : num  
- fBodyBodyAccJerkMag-std()  : num  
- fBodyBodyGyroMag-mean()    : num 
- fBodyBodyGyroMag-std()     : num  
- fBodyBodyGyroJerkMag-mean(): num  
- fBodyBodyGyroJerkMag-std() : num  
+ fBodyGyro-std()-Y          : num
+ fBodyGyro-std()-Z          : num
+ fBodyAccMag-mean()         : num
+ fBodyAccMag-std()          : num
+ fBodyBodyAccJerkMag-mean() : num
+ fBodyBodyAccJerkMag-std()  : num
+ fBodyBodyGyroMag-mean()    : num
+ fBodyBodyGyroMag-std()     : num
+ fBodyBodyGyroJerkMag-mean(): num
+ fBodyBodyGyroJerkMag-std() : num
